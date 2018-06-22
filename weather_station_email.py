@@ -13,7 +13,7 @@ import lcddriver
 import csv
 
 f_time = datetime.now().strftime('%a %d %b @ %H:%M')
-toaddr = 'alopez@latticecapital.com.co'    # redacted
+toaddr = EMAIL HERE    # redacted
 me = 'sensor@test.com' # redacted
 subject = 'Data ' + f_time
 
